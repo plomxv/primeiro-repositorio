@@ -1,11 +1,58 @@
+body{ 
+
+
+}
+#cerebro {
+     width: 25%;
+}
+
 body {
 	background: #cccccc
 }
+.titulo-principal{ 
+    font-size: 30px;
+}
+
+
+.titulo-centralizado{
+    text-align: center
+
+}
+em {
+    font-size: 20px
+}
 
 p {
-	text-align: center;
+    font-size: 18px
+      }
+
+#teste.jpg {
+    width: 50%;
+    height: 50%;
 }
 
 em strong {
+	color:  #FF0000;
+}        	
+
+.itens {
+     font-style: italic
+
+}            
+.beneficios {
+    background: #FFFFFF ;
+    padding: 20px;
+}
+
+ul{
+    display:  inline-block; 
+    vertical-align: top;
+    width: 20%;
+    margin-right:  15%;
+ }
+.imagembeneficios{
+    width:  50%;
+}
+
 	color: red;
 }
