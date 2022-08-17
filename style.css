@@ -2,13 +2,12 @@ body{
 
 
 }
-#cerebro {
-     width: 25%;
+#brain1.jpg{
+    width: 30%;
+    height: 30%
 }
 
-body {
-	background: #cccccc
-}
+
 .titulo-principal{ 
     font-size: 30px;
 }
@@ -27,8 +26,13 @@ p {
       }
 
 #teste.jpg {
-    width: 50%;
-    height: 50%;
+    width: 55%;
+    height: 55%;
+}
+
+#teste.jpg {
+    width: 55%;
+    height: 55%;
 }
 
 em strong {
