@@ -1,62 +1,40 @@
-body{ 
 
-
-}
 #brain1.jpg{
     width: 30%;
     height: 30%
 }
 
-
-.titulo-principal{ 
-    font-size: 30px;
-}
-
-
 .titulo-centralizado{
     text-align: center
-
 }
+ 
 em {
     font-size: 20px
 }
 
 p {
     font-size: 18px
-      }
-
-#teste.jpg {
-    width: 55%;
-    height: 55%;
-}
-
-#teste.jpg {
-    width: 55%;
-    height: 55%;
 }
 
 em strong {
-	color:  #FF0000;
-}        	
-
-.itens {
-     font-style: italic
-
-}            
-.beneficios {
-    background: #FFFFFF ;
-    padding: 20px;
+    color:  #FF0000;
 }
 
-ul{
-    display:  inline-block; 
-    vertical-align: top;
-    width: 20%;
-    margin-right:  15%;
- }
-.imagembeneficios{
-    width:  50%;
+#teste.jpg {
+   width: 55%;
+   height: 55%;
 }
 
-	color: red;
+#chat.jpg {
+   width: 55%;
+   height: 55%
 }
+
+#vicio.jpg {
+   width: 55%;
+   height: 55%
+}
+
+        	
+
+
